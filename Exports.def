@@ -1,0 +1,6 @@
+EXPORTS
+DirectInput8Create=__E__0__
+DllCanUnloadNow=__E__1__
+DllGetClassObject=__E__2__
+DllRegisterServer=__E__3__
+DllUnregisterServer=__E__4__
